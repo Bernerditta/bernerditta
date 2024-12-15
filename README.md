@@ -80,7 +80,8 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 ---
 ### 📈 GitHub Stats  
 ![Bernerditta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernerditta&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernerditta&layout=compact&theme=radical&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernerditta-nyarko&layout=compact&theme=radical&langs_count=10&exclude_repo=repo1,repo2)
+
 
 
 
