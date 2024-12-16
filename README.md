@@ -75,12 +75,14 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 
 ## 📫 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/bernerditta-nyarko/)  
-- [Portfolio](#) _(Add a link to your portfolio)_  
+- [Portfolio](#) _(Add a link to your portfolio)_
+  
 
 ---
 ### 📈 GitHub Stats  
 ![Bernerditta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernerditta&show_icons=true&theme=radical) 
-![Top Languages]()
+![(![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernerditta&layout=compact&theme=radical)
+)
 
 
 ---
