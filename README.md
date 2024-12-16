@@ -55,19 +55,17 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 
 - **Python Projects**
 ### 👩‍💻 Code First: Girls Bootcamp  
-**Certificate**: [View My Certificate](![Screenshot 2024-12-16 113230](https://github.com/user-attachments/assets/1a4d73a5-982c-4ff4-aef2-64791e98b0d9)
+**Certificate**: [View My Certificate in linkdeln](![https://www.linkedin.com/in/bernerditta-nyarko-396b59296/details/education/)
 )
-)  
-- **Spreadsheet Analysis**: [View the Spreadsheet]([vertopal.com_Project_Brief_Spreadsheet_Analysis.pdf](https://github.com/user-attachments/files/18149439/vertopal.com_Project_Brief_Spreadsheet_Analysis.pdf)
-)  
+**Spreadsheet Analysis**: [View the Spreadsheet](https://github.com/user-attachments/files/18149439/vertopal.com_Project_Brief_Spreadsheet_Analysis.pdf)
+
 
 I participated in the **Code First: Girls Bootcamp**, where I built a strong foundation in Python programming and problem-solving.  
 
-#### Key Topics Covered:
+ Key Topics Covered:
 - **Python Basics**: Data types, variables, and logic-based decision-making.  
 - **Data Structures**: Lists and dictionaries.  
 - **File Management & APIs**: Using external data sources in projects.
-- 
 - **Final Project**: Designed a spreadsheet analysis for data visualization, which I presented to the group
 
 
