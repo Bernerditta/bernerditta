@@ -57,7 +57,7 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 ### 👩‍💻 Code First: Girls Bootcamp  
 **Certificate**: [View My Certificate in linkdeln](![https://www.linkedin.com/in/bernerditta-nyarko-396b59296/details/education/)
 )
-**Spreadsheet Analysis**: [View the Spreadsheet](https://github.com/user-attachments/files/18149439/vertopal.com_Project_Brief_Spreadsheet_Analysis.pdf)
+**Spreadsheet Analysis**: [View the Spreadsheet](https://colab.research.google.com/drive/1c2wM2_st8ixSrqVenf8ie4b47DZgcjE0)
 
 
 I participated in the **Code First: Girls Bootcamp**, where I built a strong foundation in Python programming and problem-solving.  
