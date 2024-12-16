@@ -58,26 +58,26 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 **Certificate**: [View My Certificate](![Screenshot 2024-12-16 113230](https://github.com/user-attachments/assets/1a4d73a5-982c-4ff4-aef2-64791e98b0d9)
 )
 )  
+- **Spreadsheet Analysis**: [View the Spreadsheet]([vertopal.com_Project_Brief_Spreadsheet_Analysis.pdf](https://github.com/user-attachments/files/18149439/vertopal.com_Project_Brief_Spreadsheet_Analysis.pdf)
+)  
 
 I participated in the **Code First: Girls Bootcamp**, where I built a strong foundation in Python programming and problem-solving.  
 
 #### Key Topics Covered:
 - **Python Basics**: Data types, variables, and logic-based decision-making.  
 - **Data Structures**: Lists and dictionaries.  
-- **File Management & APIs**: Using external data sources in projects.  
-- **Final Project**: Designed a spreadsheet analysis for data visualization, which I presented to the group.  
+- **File Management & APIs**: Using external data sources in projects.
+- 
+- **Final Project**: Designed a spreadsheet analysis for data visualization, which I presented to the group
+
 
 This bootcamp enhanced both my technical skills and my ability to present data-driven insights effectively.
 
 Python for everybody:
- ![Python](![475358537366746246456d746e7433666870366a69424272533955425a766a434971707a753874744b6b782b7632644f553932386b395848695656486e6c47576333686671625a6b636243414e48525a4d5848666d6d646159746b4344743769496d4158576156712f](https://github.com/user-attachments/assets/a9166696-feae-4b0b-b05d-239020124837)
-![4d507941747a69384933566136722f725079305261587650776e714357474841465a465931636a6e4a71565236554c3949764d76314338674c775542334f3654374630644f5a414d2f445a697231494863343032496b6f5a32536c42596f35726476536c71596b7942](https://github.com/user-attachments/assets/03fcd60d-b99d-4046-aba7-78641c2c61ab)
-![7443716c6f536f354341767577356b70663357674e2b736253553579726761667677334a6e564950676c506e4c50747075426865695956474d5875786c50752f577a68792f64664d4c7456322b32754e4e72436939484f446b5878596130414376636b45657378565a](https://github.com/user-attachments/assets/f478fcc0-c2a8-425f-aa04-fedfdbcb5795)
-![627a4a4d7a68346c716a716c536b654b4c5a6d725232336976574334644537626c54794254416176587143703842513465686c366d4258705037744d7545557a52376536435174526844396939736c483364564c6b72555850394d4745796c32576664303371467453](https://github.com/user-attachments/assets/77c4988c-b3bc-4e9e-90ef-cdde62fa25c2)
-![4e4b62396d683449766b2f716964733437644f506a6c72626d5151354948576555316365584447704452524479444f7837554d64326e4d347668592b426f2f7056454e70432f7150546e796d6864307346346a4e74462f61564862717a65336355677630774d4c3151](https://github.com/user-attachments/assets/715326fd-75bd-41fc-b46d-ca4629ee6d2a)
-)
-  - Skilled in data manipulation and analysis using Pandas and NumPy.  
-  - Proficient in data visualization using Matplotlib and Seaborn.  
+The Python for Everybody course, developed by Dr. Charles Severance, introduces fundamental programming concepts using Python. It covers topics such as variables, loops, conditionals, functions, data structures (lists and dictionaries), and working with files. The course is beginner-friendly and emphasizes practical applications like web scraping and data analysis, making it ideal for those new to coding.
+
+![python](https://www.py4e.com/badges)
+  
 
 
 
