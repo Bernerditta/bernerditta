@@ -105,8 +105,15 @@ The Python for Everybody course, developed by Dr. Charles Severance, introduces 
 ---
 ### 📈 GitHub Stats  
 ![Bernerditta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernerditta&show_icons=true&theme=radical) 
-![(![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernerditta&layout=compact&theme=radical)
-)
+
+
+
+### 🌐 Most Used Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![Advanced Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 
 ---
