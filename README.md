@@ -5,6 +5,22 @@
 # 💻 Bernerditta Nyarko  
 🔍 **Data Analyst | Lifelong Learner**  
 🌟 Passionate about transforming raw data into actionable insights!  
+Here’s an expanded and polished version of your GitHub profile section with the new details included:
+
+---
+
+### 🎓 Academic Background  
+- **Degree**: BSc in Psychology (2024) from the **University of Leicester**.  
+- **Specialization**: Data analysis and research methodologies, with hands-on experience in tools like regression analysis and descriptive statistics.  
+- **Passion for Data**: Combines insights into human behavior with a data-driven approach to solve real-world problems.  
+
+---
+
+### 🧠 Fun Facts  
+- 📚 **Lifelong Learner**: Improving coding skills through courses like *Goldman Sachs - Introduction to Python & Apps* and *The Complete Python Bootcamp*.  
+- 🏞️ **Active Lifestyle**: Enjoys hiking, gym sessions, and the occasional round of golf to stay focused and disciplined.  
+- 🚀 **Career Goal**: Aspiring to secure an data consultant or junior data analyst role to leverage psychology and technical expertise in driving impactful insights for businesses.  
+
 
 ---
 
@@ -12,38 +28,47 @@
 Here are the tools and technologies I use to solve problems and craft data-driven stories:  
 
 ### 🧰 **Tools & Technologies**
-- **Excel**  
-  ![Excel]()  
+- **Excel Project**  
+  ![Excel](https://github.com/Bernerditta/wealth_of__nations_project_using_excel_and_tableau)  
   - Proficient in Pivot Tables, advanced formulas, and data cleaning.  
   - Experienced with creating dashboards and reports using charts and conditional formatting.  
 
-- **Tableau**  
-  ![Tableau]()  
+- **Tableau Projects**  
+  ![Tableau](https://github.com/Bernerditta/Global_Superstore_Dashboard)  
   - Expert in designing interactive visualizations and dashboards.  
   - Skilled in creating calculated fields and advanced filters for actionable insights.  
 
-- **Power BI**  
-  ![Power BI]()  
+- **Power BI Projects**  
+  ![Power BI](https://github.com/Bernerditta/Titanic_Dataset_Power_BI)  
   - Deep knowledge of DAX for complex calculations and measures.  
   - Experienced in data modeling, relationships, and report automation.  
 
-- **MySQL**  
-  ![MySQL]()  
+- **MySQL Projects**  
+  ![MySQL](https://github.com/Bernerditta/Databases-and-SQL)  
   - Proficient in writing optimized SQL queries for data extraction and transformation.  
   - Skilled in creating stored procedures, views, and joins.  
 
-- **Azure**  
+- **Azure Projects**  
   ![Azure]()  
   - Familiar with Azure SQL Databases and cloud data solutions.  
   - Experienced in deploying data projects and managing cloud storage.  
 
-- **Python**
+- **Python Projects**
+### 👩‍💻 Code First: Girls Bootcamp  
+**Certificate**: [View My Certificate](![image](https://github.com/user-attachments/assets/6f653f91-e4f1-4936-b75a-45e256f94277)
+)  
 
+I participated in the **Code First: Girls Bootcamp**, where I built a strong foundation in Python programming and problem-solving.  
 
+#### Key Topics Covered:
+- **Python Basics**: Data types, variables, and logic-based decision-making.  
+- **Data Structures**: Lists and dictionaries.  
+- **File Management & APIs**: Using external data sources in projects.  
+- **Final Project**: Designed a spreadsheet analysis for data visualization, which I presented to the group.  
 
+This bootcamp enhanced both my technical skills and my ability to present data-driven insights effectively.
 
-
-
+Python for everybody:
  ![Python](![475358537366746246456d746e7433666870366a69424272533955425a766a434971707a753874744b6b782b7632644f553932386b395848695656486e6c47576333686671625a6b636243414e48525a4d5848666d6d646159746b4344743769496d4158576156712f](https://github.com/user-attachments/assets/a9166696-feae-4b0b-b05d-239020124837)
 ![4d507941747a69384933566136722f725079305261587650776e714357474841465a465931636a6e4a71565236554c3949764d76314338674c775542334f3654374630644f5a414d2f445a697231494863343032496b6f5a32536c42596f35726476536c71596b7942](https://github.com/user-attachments/assets/03fcd60d-b99d-4046-aba7-78641c2c61ab)
 ![7443716c6f536f354341767577356b70663357674e2b736253553579726761667677334a6e564950676c506e4c50747075426865695956474d5875786c50752f577a68792f64664d4c7456322b32754e4e72436939484f446b5878596130414376636b45657378565a](https://github.com/user-attachments/assets/f478fcc0-c2a8-425f-aa04-fedfdbcb5795)
