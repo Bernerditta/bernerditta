@@ -55,7 +55,8 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 
 - **Python Projects**
 ### 👩‍💻 Code First: Girls Bootcamp  
-**Certificate**: [View My Certificate](![image](https://github.com/user-attachments/assets/6f653f91-e4f1-4936-b75a-45e256f94277)
+**Certificate**: [View My Certificate](![Screenshot 2024-12-16 113230](https://github.com/user-attachments/assets/1a4d73a5-982c-4ff4-aef2-64791e98b0d9)
+)
 )  
 
 I participated in the **Code First: Girls Bootcamp**, where I built a strong foundation in Python programming and problem-solving.  
