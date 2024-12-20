@@ -104,7 +104,7 @@ The Python for Everybody course, developed by Dr. Charles Severance, introduces 
 
 ## 📫 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/bernerditta-nyarko/)  
-- [Portfolio](#) _(Add a link to your portfolio)_
+
   
 
 ---
